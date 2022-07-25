@@ -10,4 +10,4 @@ If you want to contact me, you can use my mail-address: `johannes.hoellwerth@pro
 Also, you can DM me on Discord: `Baumistlustig#4200`
 
 ## 📊 This week I spent my time on:
-<figure><embed src="https://wakatime.com/share/@88014539-407d-462c-9c42-bcea1a083349/d2d13fb1-d9cb-4133-85e9-238b4f7725c1.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@88014539-407d-462c-9c42-bcea1a083349/e6c33bfe-e109-4660-b019-970bae70092b.svg"></embed></figure>
