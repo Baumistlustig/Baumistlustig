@@ -9,6 +9,6 @@ If you want to contact me, you can use my mail-address: `johannes.hoellwerth@pro
 
 Also, you can DM me on Discord: `Baumistlustig#4200`
 
-## 📊 This week I spent my time on:
+## 📊 My Stats:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=baumistlustig&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baumistlustig&langs_count=5&theme=tokyonight)]()
