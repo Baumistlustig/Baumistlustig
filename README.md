@@ -10,7 +10,7 @@ If you want to contact me, you can use my mail-address: `johannes.hoellwerth@pro
 Also, you can DM me on Discord: `Baumistlustig#4200`
 
 ## 📊 My Stats:
-<a href="github.com/Baumistlustig">
+<a href="/">
  <img src="https://github.com/baumistlustig/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
  <img src="https://github.com/baumistlustig/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
