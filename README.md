@@ -11,4 +11,3 @@ Also, you can DM me on Discord: `Baumistlustig#4200`
 
 ## 📊 My Stats:
 ![](https://raw.githubusercontent.com/baumistlustig/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/baumistlustig/github-stats/master/generated/overview.svg#gh-light-mode-only)
