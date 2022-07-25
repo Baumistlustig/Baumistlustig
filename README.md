@@ -10,4 +10,5 @@ If you want to contact me, you can use my mail-address: `johannes.hoellwerth@pro
 Also, you can DM me on Discord: `Baumistlustig#4200`
 
 ## 📊 This week I spent my time on:
-<figure><embed src="https://wakatime.com/share/@88014539-407d-462c-9c42-bcea1a083349/e6c33bfe-e109-4660-b019-970bae70092b.svg"></embed></figure>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=baumistlustig&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baumistlustig&langs_count=5&theme=tokyonight)]()
